@@ -35,5 +35,5 @@ switch (opcao) {
   default:
     console.log("Opção inválida. Digite um número de 1 a 4."); }
 
-    {}
+    
     
